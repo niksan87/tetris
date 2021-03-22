@@ -72,7 +72,7 @@ export class BoardViewModel extends ViewModel<BoardState> {
     }
 
     private startDropInterval(): void {
-        //this.dropInterval = setInterval( () => this.onDown(), this.getNextLevelIntervalTime() );
+        this.dropInterval = setInterval( () => this.onDown(), this.getNextLevelIntervalTime() );
     }
 
     private clearDropInterval(): void {

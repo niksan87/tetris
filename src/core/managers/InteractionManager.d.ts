@@ -1,0 +1,1 @@
+type Key = 'right' | 'left' | 'up' | 'down';

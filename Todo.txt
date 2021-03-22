@@ -1,0 +1,5 @@
+Future development:
+- Optimize render reconciliation;
+- Add more renderable properties to objects (Containers, Sprites, etc);
+- Add some sort of flow control system;
+- Add animations;

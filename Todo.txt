@@ -1,5 +1,7 @@
 Future development:
-- Optimize render reconciliation;
+- Add state management through the state manager;
+- Make state mutable only through its view model;
 - Add more renderable properties to objects (Containers, Sprites, etc);
 - Add some sort of flow control system;
 - Add animations;
+- Optimize render reconciliation;
